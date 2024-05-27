@@ -1,0 +1,320 @@
+{
+  "format": 1,
+  "restore": {
+    "/project/workspace/ContactManagement.Services/ContactManagement.Services.csproj": {}
+  },
+  "projects": {
+    "/project/workspace/ContactManagement.Data/ContactManagement.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/project/workspace/ContactManagement.Data/ContactManagement.Data.csproj",
+        "projectName": "ContactManagement.Data",
+        "projectPath": "/project/workspace/ContactManagement.Data/ContactManagement.Data.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/project/workspace/ContactManagement.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/project/workspace/ContactManagement.Entities/ContactManagement.Entities.csproj": {
+                "projectPath": "/project/workspace/ContactManagement.Entities/ContactManagement.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.422/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/project/workspace/ContactManagement.Entities/ContactManagement.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/project/workspace/ContactManagement.Entities/ContactManagement.Entities.csproj",
+        "projectName": "ContactManagement.Entities",
+        "projectPath": "/project/workspace/ContactManagement.Entities/ContactManagement.Entities.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/project/workspace/ContactManagement.Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.422/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/project/workspace/ContactManagement.Middleware/ContactManagement.Middleware.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/project/workspace/ContactManagement.Middleware/ContactManagement.Middleware.csproj",
+        "projectName": "ContactManagement.Middleware",
+        "projectPath": "/project/workspace/ContactManagement.Middleware/ContactManagement.Middleware.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/project/workspace/ContactManagement.Middleware/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/project/workspace/ContactManagement.Entities/ContactManagement.Entities.csproj": {
+                "projectPath": "/project/workspace/ContactManagement.Entities/ContactManagement.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.422/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/project/workspace/ContactManagement.Repository/ContactManagement.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/project/workspace/ContactManagement.Repository/ContactManagement.Repository.csproj",
+        "projectName": "ContactManagement.Repository",
+        "projectPath": "/project/workspace/ContactManagement.Repository/ContactManagement.Repository.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/project/workspace/ContactManagement.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/project/workspace/ContactManagement.Data/ContactManagement.Data.csproj": {
+                "projectPath": "/project/workspace/ContactManagement.Data/ContactManagement.Data.csproj"
+              },
+              "/project/workspace/ContactManagement.Entities/ContactManagement.Entities.csproj": {
+                "projectPath": "/project/workspace/ContactManagement.Entities/ContactManagement.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.422/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/project/workspace/ContactManagement.Services/ContactManagement.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/project/workspace/ContactManagement.Services/ContactManagement.Services.csproj",
+        "projectName": "ContactManagement.Services",
+        "projectPath": "/project/workspace/ContactManagement.Services/ContactManagement.Services.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/project/workspace/ContactManagement.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/project/workspace/ContactManagement.Entities/ContactManagement.Entities.csproj": {
+                "projectPath": "/project/workspace/ContactManagement.Entities/ContactManagement.Entities.csproj"
+              },
+              "/project/workspace/ContactManagement.Middleware/ContactManagement.Middleware.csproj": {
+                "projectPath": "/project/workspace/ContactManagement.Middleware/ContactManagement.Middleware.csproj"
+              },
+              "/project/workspace/ContactManagement.Repository/ContactManagement.Repository.csproj": {
+                "projectPath": "/project/workspace/ContactManagement.Repository/ContactManagement.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.422/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

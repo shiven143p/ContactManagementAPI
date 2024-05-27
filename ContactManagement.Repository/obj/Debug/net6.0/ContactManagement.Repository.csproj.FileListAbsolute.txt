@@ -1,0 +1,17 @@
+/project/workspace/ContactManagement.Repository/bin/Debug/net6.0/ContactManagement.Repository.deps.json
+/project/workspace/ContactManagement.Repository/bin/Debug/net6.0/ContactManagement.Repository.dll
+/project/workspace/ContactManagement.Repository/bin/Debug/net6.0/ContactManagement.Repository.pdb
+/project/workspace/ContactManagement.Repository/bin/Debug/net6.0/ContactManagement.Data.dll
+/project/workspace/ContactManagement.Repository/bin/Debug/net6.0/ContactManagement.Entities.dll
+/project/workspace/ContactManagement.Repository/bin/Debug/net6.0/ContactManagement.Data.pdb
+/project/workspace/ContactManagement.Repository/bin/Debug/net6.0/ContactManagement.Entities.pdb
+/project/workspace/ContactManagement.Repository/obj/Debug/net6.0/ContactManagement.Repository.csproj.AssemblyReference.cache
+/project/workspace/ContactManagement.Repository/obj/Debug/net6.0/ContactManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/project/workspace/ContactManagement.Repository/obj/Debug/net6.0/ContactManagement.Repository.AssemblyInfoInputs.cache
+/project/workspace/ContactManagement.Repository/obj/Debug/net6.0/ContactManagement.Repository.AssemblyInfo.cs
+/project/workspace/ContactManagement.Repository/obj/Debug/net6.0/ContactManagement.Repository.csproj.CoreCompileInputs.cache
+/project/workspace/ContactManagement.Repository/obj/Debug/net6.0/ContactManagement.Repository.dll
+/project/workspace/ContactManagement.Repository/obj/Debug/net6.0/refint/ContactManagement.Repository.dll
+/project/workspace/ContactManagement.Repository/obj/Debug/net6.0/ContactManagement.Repository.pdb
+/project/workspace/ContactManagement.Repository/obj/Debug/net6.0/ref/ContactManagement.Repository.dll
+/project/workspace/ContactManagement.Repository/obj/Debug/net6.0/ContactManagement.Repository.csproj.CopyComplete

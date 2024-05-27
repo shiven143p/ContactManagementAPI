@@ -1,0 +1,12 @@
+/project/workspace/ContactManagement.Entities/bin/Debug/net6.0/ContactManagement.Entities.deps.json
+/project/workspace/ContactManagement.Entities/bin/Debug/net6.0/ContactManagement.Entities.dll
+/project/workspace/ContactManagement.Entities/bin/Debug/net6.0/ContactManagement.Entities.pdb
+/project/workspace/ContactManagement.Entities/obj/Debug/net6.0/ContactManagement.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/project/workspace/ContactManagement.Entities/obj/Debug/net6.0/ContactManagement.Entities.AssemblyInfoInputs.cache
+/project/workspace/ContactManagement.Entities/obj/Debug/net6.0/ContactManagement.Entities.AssemblyInfo.cs
+/project/workspace/ContactManagement.Entities/obj/Debug/net6.0/ContactManagement.Entities.csproj.CoreCompileInputs.cache
+/project/workspace/ContactManagement.Entities/obj/Debug/net6.0/ContactManagement.Entities.dll
+/project/workspace/ContactManagement.Entities/obj/Debug/net6.0/refint/ContactManagement.Entities.dll
+/project/workspace/ContactManagement.Entities/obj/Debug/net6.0/ContactManagement.Entities.pdb
+/project/workspace/ContactManagement.Entities/obj/Debug/net6.0/ref/ContactManagement.Entities.dll
+/project/workspace/ContactManagement.Entities/obj/Debug/net6.0/ContactManagement.Entities.csproj.AssemblyReference.cache

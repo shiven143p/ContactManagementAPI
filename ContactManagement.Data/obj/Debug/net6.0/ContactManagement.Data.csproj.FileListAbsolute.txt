@@ -1,0 +1,15 @@
+/project/workspace/ContactManagement.Data/bin/Debug/net6.0/ContactManagement.Data.deps.json
+/project/workspace/ContactManagement.Data/bin/Debug/net6.0/ContactManagement.Data.dll
+/project/workspace/ContactManagement.Data/bin/Debug/net6.0/ContactManagement.Data.pdb
+/project/workspace/ContactManagement.Data/bin/Debug/net6.0/ContactManagement.Entities.dll
+/project/workspace/ContactManagement.Data/bin/Debug/net6.0/ContactManagement.Entities.pdb
+/project/workspace/ContactManagement.Data/obj/Debug/net6.0/ContactManagement.Data.csproj.AssemblyReference.cache
+/project/workspace/ContactManagement.Data/obj/Debug/net6.0/ContactManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+/project/workspace/ContactManagement.Data/obj/Debug/net6.0/ContactManagement.Data.AssemblyInfoInputs.cache
+/project/workspace/ContactManagement.Data/obj/Debug/net6.0/ContactManagement.Data.AssemblyInfo.cs
+/project/workspace/ContactManagement.Data/obj/Debug/net6.0/ContactManagement.Data.csproj.CoreCompileInputs.cache
+/project/workspace/ContactManagement.Data/obj/Debug/net6.0/ContactManagement.Data.dll
+/project/workspace/ContactManagement.Data/obj/Debug/net6.0/refint/ContactManagement.Data.dll
+/project/workspace/ContactManagement.Data/obj/Debug/net6.0/ContactManagement.Data.pdb
+/project/workspace/ContactManagement.Data/obj/Debug/net6.0/ref/ContactManagement.Data.dll
+/project/workspace/ContactManagement.Data/obj/Debug/net6.0/ContactManagement.Data.csproj.CopyComplete

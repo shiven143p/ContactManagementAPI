@@ -23,7 +23,7 @@ namespace ContactManangement.Controllers
         }
 
         [HttpGet]
-        [Route("GetContact")]
+        [Route("GetContact/{contactId}")]
         public async Task<InternalResponse> Get(string contactId)
         {
             return await _contactService.GetContactByIDAsync(contactId);
@@ -44,7 +44,7 @@ namespace ContactManangement.Controllers
         }
 
         [HttpDelete]
-        [Route("DeleteContact")]
+        [Route("DeleteContact/{contactId}")]
         public async Task<InternalResponse> Delete(string contactId)
         {
             return await _contactService.DeleteContactAsync(contactId);

@@ -1,0 +1,15 @@
+/project/workspace/ContactManagement.Middleware/bin/Debug/net6.0/ContactManagement.Middleware.deps.json
+/project/workspace/ContactManagement.Middleware/bin/Debug/net6.0/ContactManagement.Middleware.dll
+/project/workspace/ContactManagement.Middleware/bin/Debug/net6.0/ContactManagement.Middleware.pdb
+/project/workspace/ContactManagement.Middleware/bin/Debug/net6.0/ContactManagement.Entities.dll
+/project/workspace/ContactManagement.Middleware/bin/Debug/net6.0/ContactManagement.Entities.pdb
+/project/workspace/ContactManagement.Middleware/obj/Debug/net6.0/ContactManagement.Middleware.csproj.AssemblyReference.cache
+/project/workspace/ContactManagement.Middleware/obj/Debug/net6.0/ContactManagement.Middleware.GeneratedMSBuildEditorConfig.editorconfig
+/project/workspace/ContactManagement.Middleware/obj/Debug/net6.0/ContactManagement.Middleware.AssemblyInfoInputs.cache
+/project/workspace/ContactManagement.Middleware/obj/Debug/net6.0/ContactManagement.Middleware.AssemblyInfo.cs
+/project/workspace/ContactManagement.Middleware/obj/Debug/net6.0/ContactManagement.Middleware.csproj.CoreCompileInputs.cache
+/project/workspace/ContactManagement.Middleware/obj/Debug/net6.0/ContactManagement.Middleware.dll
+/project/workspace/ContactManagement.Middleware/obj/Debug/net6.0/refint/ContactManagement.Middleware.dll
+/project/workspace/ContactManagement.Middleware/obj/Debug/net6.0/ContactManagement.Middleware.pdb
+/project/workspace/ContactManagement.Middleware/obj/Debug/net6.0/ref/ContactManagement.Middleware.dll
+/project/workspace/ContactManagement.Middleware/obj/Debug/net6.0/ContactManagement.Middleware.csproj.CopyComplete
