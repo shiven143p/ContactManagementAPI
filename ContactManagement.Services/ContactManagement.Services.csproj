@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ContactManagement.Entities\ContactManagement.Entities.csproj" />
+    <ProjectReference Include="..\ContactManagement.Middleware\ContactManagement.Middleware.csproj" />
+    <ProjectReference Include="..\ContactManagement.Repository\ContactManagement.Repository.csproj" />
+	<PackageReference Include="AutoMapper" Version="13.0.1" />  
+  </ItemGroup>
+
+</Project>
